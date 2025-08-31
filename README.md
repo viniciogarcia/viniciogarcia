@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-Eu sou Vinicio Garcia, sou um Programador Front End, atualmente atualmente estou aprendendo e criando projetos com: 
+Eu sou Vinicio Garcia, sou um Programador Front End, atualmente estou aprendendo e criando projetos com: 
 <br>
 <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
